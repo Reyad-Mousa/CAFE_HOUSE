@@ -244,7 +244,7 @@ header .container nav ul li a:active {
   font-size: 16px;
 }
 .landing .boutton h3 {
-  background-image: url(/img/tm-brown-button.png);
+  background-image: url(../img/tm-brown-button.png);
   background-repeat: no-repeat;
   background-position: center;
   color: #c79c60;
