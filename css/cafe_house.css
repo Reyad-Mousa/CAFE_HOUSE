@@ -507,7 +507,7 @@ header .container nav ul li a:active {
 }
 
 .Daily-Menu .boutton h3 {
-  background-image: url(/img/tm-brown-button.png);
+  background-image: url(../img/tm-brown-button.png);
   background-repeat: no-repeat;
   background-position: center;
   color: #c79c60;
@@ -690,7 +690,7 @@ footer .container .get ul li a:hover {
   padding-bottom: 100px;
 }
 .content .boutton h3 a {
-  background-image: url(/img/tm-brown-button.png);
+  background-image: url(../img/tm-brown-button.png);
   background-repeat: no-repeat;
   background-position: center;
   color: #c79c60;
@@ -790,7 +790,7 @@ footer .container .get ul li a:hover {
 }
 
 .mune .boutton h3 {
-  background-image: url(/img/tm-brown-button.png);
+  background-image: url(../img/tm-brown-button.png);
   background-repeat: no-repeat;
   background-position: center;
   color: #c79c60;
