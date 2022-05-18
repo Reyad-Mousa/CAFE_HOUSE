@@ -169,7 +169,7 @@ header .container nav ul li a:active {
   width: 100%;
   text-align: center;
   background-color: black;
-  height: 176vh;
+  height: 174vh;
   position: relative;
 }
 @media (max-width: 767px) {
@@ -1020,12 +1020,6 @@ footer .container .get ul li a:hover {
   color: #c79c60;
   border-color: #c79c60;
 }
-@media (max-width: 767px) {
-  .landing-menu .container {
-    height: 106vh;
-  }
-}
-
 .Today-Special-home {
   display: flex;
   flex-direction: row;
