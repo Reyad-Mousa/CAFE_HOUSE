@@ -1029,7 +1029,7 @@ footer .container .get ul li a:hover {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding-right: 18px;
+  
 }
 
 @media (max-width: 767px) {
