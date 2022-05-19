@@ -169,7 +169,7 @@ header .container nav ul li a:active {
   width: 100%;
   text-align: center;
   background-color: black;
-  height: 174vh;
+  height: 125vh;
   position: relative;
 }
 @media (max-width: 767px) {
@@ -178,8 +178,8 @@ header .container nav ul li a:active {
   }
 }
 @media (max-width: 992px) {
-  .container {
-height: 100%; 
+  .landing .container {
+    height: 100%; 
  }
 }
 
@@ -645,11 +645,6 @@ footer .container .get ul li a:hover {
   font-size: 12px;
   padding: 20px 0;
   justify-content: center;
-}
-@media (max-width: 767px) {
-  .end p {
-    padding-bottom: 70%;
-  }
 }
 
 .content .container {
