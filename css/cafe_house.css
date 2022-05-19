@@ -177,6 +177,11 @@ header .container nav ul li a:active {
     height:100%;
   }
 }
+@media (max-width: 992px) {
+  .container {
+height: 100%; 
+ }
+}
 
 .landing .container .img-light {
   display: flex;
