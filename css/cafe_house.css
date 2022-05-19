@@ -173,8 +173,8 @@ header .container nav ul li a:active {
   position: relative;
 }
 @media (max-width: 767px) {
-  .landing-menu .container {
-    height:auto;
+  .landing .container {
+    height:100%;
   }
 }
 
